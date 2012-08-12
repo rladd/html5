@@ -1,0 +1,55 @@
+
+        __,:,__               __,:,__               __,:,__
+     ,ad88P`Y88ba,         ,ad88P`Y88ba,         ,ad88P`Y88ba,
+   ad88888' `88888ba     ad88888' `88888ba     ad88888' `88888ba
+ ,d88888P'   `Y88888b, ,d88888P'   `Y88888b, ,d88888P'   `Y88888b,
+,d888P"'       `"Y888b,d888P"'       `"Y888b,d888P"'       `"Y888b,
+:(["               ``":"''               ``":"''               "]):
+`Y88ba,                                                     ,ad88P'
+ `88888ba                                                 ad88888'
+  `Y88888b,                                             ,d88888P'
+    `"Y888b,     ---------------------------------     ,d888P"'
+        "]):     Element63 - MultiMedia and Design     :(["
+     ,ad88P'     ---------------------------------     `Y88ba,
+   ad88888'                                             `88888ba
+ ,d88888P'                                               `Y88888b,
+,d888P"'                                                   `"Y888b,
+:(["               __,:,__               __,:,__               "]):
+`Y88ba,         ,ad88P`Y88ba,         ,ad88P`Y88ba,         ,ad88P'
+ `88888ba     ad88888' `88888ba     ad88888' `88888ba     ad88888'
+  `Y88888b, ,d88888P'   `Y88888b, ,d88888P'   `Y88888b, ,d88888P'
+    `"Y888b,d888P"'       `"Y888b,d888P"'       `"Y888b,d888P"'
+        ``":"''               ``":"''               ``":"''
+
+-------------------------------------------------------------------
+................... HTML Portfolio / Experiments ..................
+-------------------------------------------------------------------
+
+ Author:    Ross Ladd
+ Company:	Element63 (http://www.element63.com)
+ Date:		June 17th, 2012ugust 12th, 2012
+ Copyright: (c) 2012 Element63
+ License:	Private / Development (GPL upon release)
+
+ Description:
+
+   This project is simply a test bed for HTML5 / canvas stuff. It
+   doesn't really server a purpose, it should be though of as more
+   of a playground for the digital arts.
+
+   * HISTORY *
+
+   -------------------------------------------------------------------
+   Date - 2012-08-12
+   -------------------------------------------------------------------
+	- Created the initial graphics / layout and began to shape the menu
+     system. Menu categories and items are to be database driven, with
+     three options for content - External Urls, external files, and
+     most commonly internal files for inclusion.
+
+
+
+----------------------------------------------------------------------
+..............; © 2012 Element63 - All Rights Reserved  ..............
+----------------------------------------------------------------------
+
