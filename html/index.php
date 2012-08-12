@@ -196,7 +196,7 @@
       </div>
       -->
       <div id="footerRight">
-      <a href="#" onClick="startTheShow('Boink');"><img src="images/icon_drupal.png" height="34px" width="34px"></a>
+      <a href="http://www.zencoder.com" target=_"new"><img src="images/pixel_clear.png" class="footer_zenIcon" height="34" width="240"/></a>
       <a href="http://www.w3.org/html/wg/" target="_new"><img class="footerBadge" src="images/logo_html5.png" /></a>
       <a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_new"><img class="footerBadge" src="images/logo_css3.png" /></a>
       </div>

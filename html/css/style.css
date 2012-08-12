@@ -243,7 +243,11 @@ p.clr, .clr { clear:both; padding:0; margin:0; }
 
 .footerBadge {
    margin:0;
+   width:25px;
+   height:34px;
 }
+
+
 #footerLeft {
    display:inline-block;
    float:left;
@@ -279,9 +283,26 @@ p.clr, .clr { clear:both; padding:0; margin:0; }
    float:right;
    margin:0;
    padding:8px 10px 0 0;
-   width:140px;
+   width:400px;
    height:36px;
    text-align:right;
+   border-style:none;
 }
+
+.footer_zenIcon {
+   background-image:url('../images/icon_zencoder.png');
+   background-repeat:no-repeat;
+   background-position:0 -36px;
+   margin:0;
+   padding:0;
+   vertical-align:middle:
+   text-align:middle;
+   width:240px;
+   height:34px;
+}
+.footer_zenIcon:hover {
+   background-position:0px 0px;
+}
+
 
 
